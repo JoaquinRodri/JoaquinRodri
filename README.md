@@ -20,6 +20,20 @@
 - Docker
 - TypeScript
 
+## Proyecto destacado
+
+### 📚 Gestión de Alumnos en Prácticas
+
+Aplicación web para la gestión de alumnos en prácticas formativas en empresa.
+
+Tecnologías utilizadas:
+
+- Java
+- Spring Boot
+- Angular
+- PostgreSQL
+- Docker
+
 ## Objetivos
 
 - Mejorar mis conocimientos de desarrollo full-stack.
