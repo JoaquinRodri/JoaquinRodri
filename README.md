@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hola, soy Joaquín Rodríguez Rodríguez 👋
 
-<!--
-**JoaquinRodri/JoaquinRodri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudiante de Desarrollo de Aplicaciones Web (DAW).
 
-Here are some ideas to get you started:
+🚀 Me interesa el desarrollo web y actualmente estoy ampliando mi formación mediante proyectos personales, cursos y práctica continua.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologías con las que trabajo
+
+- Java
+- SQL
+- Git y GitHub
+- HTML
+- CSS
+- Linux
+
+## Actualmente aprendiendo
+
+- Spring Boot
+- Angular
+- Docker
+- TypeScript
+
+## Objetivos
+
+- Mejorar mis conocimientos de desarrollo full-stack.
+- Aprender buenas prácticas de desarrollo y control de versiones.
+- Construir proyectos reales para ampliar mi experiencia.
+
+## Proyectos destacados
+
+Próximamente iré añadiendo aquí mis proyectos más importantes.
